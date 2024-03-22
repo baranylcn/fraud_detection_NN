@@ -33,3 +33,6 @@ The dataset used in this project is provided in the file `fraud.csv`. It include
   - F1 Score: 99.79 %
   - Accuracy Score: 99.79 %
   - ROC-AUC Score: 99.99 %
+ 
+## Data
+https://www.kaggle.com/datasets/youssefismail20/fraudsynth-credit-fraud-detection-dataset
